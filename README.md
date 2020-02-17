@@ -1,4 +1,9 @@
-# admin
+
+A backend admin system using using `vue` + `vue router` + `axios` + `elementUI` 
+
+
+
+
 
 ## Project setup
 ```
@@ -10,20 +15,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+screen shot<br/>
+![Alt text](./src/assets/1.png)
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
